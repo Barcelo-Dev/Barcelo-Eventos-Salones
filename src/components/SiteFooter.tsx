@@ -10,7 +10,7 @@ export default function SiteFooter() {
         <div>
           <small style={{ letterSpacing: ".14em", textTransform: "uppercase" }}>Contacto</small>
           <span style={{ display: "block", color: "rgba(255,255,255,.8)", fontSize: 14, margin: "6px 0" }}>+502 2378 4000</span>
-          <span style={{ display: "block", color: "rgba(255,255,255,.8)", fontSize: 14, margin: "6px 0" }}>guatemalcity.banquetes-asist@barcelo.com</span>
+          <span style={{ display: "block", color: "rgba(255,255,255,.8)", fontSize: 14, margin: "6px 0" }}>guatemalacity.banquetes-asist@barcelo.com</span>
         </div>
         <div>
           <small style={{ letterSpacing: ".14em", textTransform: "uppercase" }}>Salones</small>
