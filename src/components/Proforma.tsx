@@ -62,7 +62,7 @@ export default function Proforma({ q }: { q: Cotizacion }) {
         )}
       </div>
       <div className="pf-foot">
-        <span>Barceló Eventos &amp; Salones · Guatemala · eventos@barcelo-demo.com · +502 0000 0000</span>
+        <span>Barceló Eventos &amp; Salones · Guatemala · guatemalacity.banquetes-asist@barcelo.com · +502 2378 4000</span>
         <span>Ref: {q.ref}</span>
       </div>
     </div>
